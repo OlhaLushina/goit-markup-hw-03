@@ -280,6 +280,7 @@ img {
 .member-item {
     width: 270px;
     background-color: var(--primary-white-color);
+    border-radius: 0px 0px 4px 4px;
 }
 
 .member-item:not(:last-child) {
